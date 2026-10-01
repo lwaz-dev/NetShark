@@ -1,0 +1,5 @@
+dpkt
+flask
+flask-cors
+scapy
+python-nmap
